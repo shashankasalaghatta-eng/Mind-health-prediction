@@ -1,7 +1,7 @@
 (() => {
   "use strict";
 
-  const API_URL = "https://mind-health-prediction-1.onrender.com";
+  const API_URL = "https://mind-health-prediction-4.onrender.com";
   const MAX_SCORE = 10;          // change if your model's score uses another range
   const TIMEOUT_MS = 20000;
   const CIRCUMFERENCE = 2 * Math.PI * 52;
